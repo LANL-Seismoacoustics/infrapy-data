@@ -1,5 +1,5 @@
 # infrapy-data
-Data used by infrapy in some of the Examples/Tutorials/Command Line Interface scripts
+This repository contains data used by infrapy in some of the Examples/Tutorials/Command Line Interface scripts
 
 If you don't already have infrapy, it can be downloaded from https://github.com/LANL-Seismoacoustics/infrapy
 
